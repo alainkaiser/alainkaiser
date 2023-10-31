@@ -1,6 +1,6 @@
 ### Hi. I am Alain 👋
 
-I am a Freelance Full-Stack Developer @[WEBDIGI](https://www.webdigi.ch/) from Solothurn, Switzerland🇨🇭. Mainly working with the .NET Ecosystem & React. Take a look at my website and convince yourself of my services and offers.
+I am a Full-Stack Developer from Solothurn, Switzerland🇨🇭. Mainly working with the .NET Ecosystem & React. Take a look at my website and convince yourself of my services and offers.
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>

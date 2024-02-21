@@ -1,4 +1,4 @@
-### Hi. I am Alain 👋
+### Hi. I am [Alain](https://www.alainkaiser.ch/). 👋
 
 Fullstack Software Engineer from Solothurn, Switzerland 🇨🇭. Mainly working with the .NET Ecosystem & React and Angular.
 
